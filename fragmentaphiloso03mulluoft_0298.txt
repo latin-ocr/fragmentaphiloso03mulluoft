@@ -1,0 +1,138 @@
+282
+
+id est justo fuerit praedicatum particulariter, erit quo-
+que conclusio particularis, hoc modo ut A virtus de
+quodam G justo particulariter praedicetur-3 sic igitur si
+fuerit A terminus in omni B, et Β terminus in aliquo G
+particulariter, erit A terminus in aliquo G particulariter,
+ut sit Omne bonum virtus est , quiddam justum bo-
+num εει, quiddam iqitur justum virtus εει.
+
+Quartus modus primae figurae est talis, quoties ex
+universali negatione et particulari affirmatione particula-
+ris negativa colligitur. Nam si A terminus de nullo B
+termino praedicetur, B vero terminus de quodam G ter-
+mino praedicetur, A terminus de quodam G termino non
+praedicabitur, quod monstrat subjecta descriptio; nam
+sunt hujusmodi propositiones ι ,nullum bonum malum
+est, quiddam justum bonum est, quiddam iquur J'u-
+scum malum non est. Hos ergo quatuor in prima figura
+modos in Analyticis suis Aristoteles posuit3 caeteros vero
+quinque modos Theophrastus et Eudemus addiderunt,
+quibus Porphyrius gravissimae vit auctoritatis visus est
+consensisse, qui sunt huj-asmodi. Nam quoniam particu-
+laris affirmativa sibi ipsi convertitur, quisquis ostende-
+rit in conclusione A terminum de quodam G termino
+particulariter praedicari, in eadem ipsa conclusione mon-
+stravit, quod G terminus de A termino rursus particu-
+lariter praedicetur. Nam si sibi particularis propositio in
+conclusione convertitur, si A terminus in quodam C
+termino fuerit, C terminus de quodam A termino pree-
+dicabitur. Item quisquis universalem negativam in con-
+clusione :probaverit ,necesse est eum ipsius quoque con-
+versionem in eadem conclusione probasse3 universalis
+euim negatio semper sihi convertitur. Nam si quis pro—
+bavit quod A terminus de nul'lo G termino praedicetur,
+non est dubium, quin in hac conclusione illud quoque
+probatum sit, quod G terminus de nullo A termino prae-
+dicetur. Semper enim ut dictum est, universalis nega-
+tiva sibi ipsi convertitur. Universalis quoque affirmativa
+duplici conclusione continetur; nam quisquis ostendit A
+terminum de omni G termino praedicari, id quoque
+ostendit, quod C terminus de quodam A termino par-
+ticulariter praedicetur. Si 'quis enim probaverit, animal
+dc omni homine praedicari ita dicens ε omnis homo ani-
+mal. est, illud quoque.» necessario monstravit particula-
+riter, quoniam quoddam animal homo est. Ita semper
+universalis affirmatio et universalis negatio vel particu-
+laris affirmativa dupliciter concluduntur. Aliae enim sibi
+ipsis convertuntur, quae particularis est, particulariter,
+quas universalis, univer-salitor3 alia vero cum ipsa uni-
+ver-selis affirmativa sit, particulariter sibi ipsa converti-
+tur, particularis autem negat-io nunquam sibi ipsa con-
+vertitur, atque idco simplicem in se retinet conclusio-
+nem. Hoc autem, quod nuper diximus , in secundo prio—
+rum Analyticorum libro ab Aristotele monstratur, quod
+seilicet et Theophrastus et Eudemus principio sapienter
+ad alios in prima figura syllogismos adjiciendos animum
+
+eUDEMl RHODII PERIPATETICI
+
+adiecerunt, qui sunt hujusmodi, qui κατὰ ἀνάκλασιν ὸοῇ-ω, ,
+cantur, id est, per refractionem quandam converffl'oneru-1¹ 1
+
+que propositionis.
+Et est quintus modus ex duabus universalibus affit-
+
+mationibus particularem colligens affirmativum, hoc ξ
+
+modo: si A fueiit in omni B, et B ruerit inoluit),
+
+posset equidem concludi, quod A terminus esset m omni, ’
+
+C termin03 sed quoniam ista universalis propositio, ut
+dictum est, particulariter convertitur, praetermisso eo
+quod A terminus de omni G termino praedicatur, cou-
+clusio esse dicitur, quod C terminus de quodam A ter·
+mino praedicatur, quod hoc exemplo demonstrandmn
+est. Si enim sint propositiones sic. omnejuscum bonum
+εει, omnis virtus juxta εει, posset equidem concludi,
+quoniam omnis virtus bonum εει. Sed quoniam ita
+propositio sibi convertitur, ut sit quoddam bonum vir-
+tus εει particulariter, particularis syllogismus conclusio-
+que colligitur ex duabus universalibus affirmativis. Ejus
+vero forma talis est ε A terminus in omni B, et B termi-
+nus in omni G, igitur G terminus in quodam A, ut est
+omne Justum bouum εει, omnis virtusjusta εει, quod-
+dam bonum virtus εει, per conversionem vero refla-
+ctionemque dicitur, quoniam quod universaliter collige-
+batur, conversum particulariter collectum est.
+
+Sextus modus est primae figurae , qui fit ex universali
+negativa et universali affirmativa universalem conclusio-
+nem per conversionem colligens. Nam si A terminus in
+nullo B fuerit, B vero terminus in omni G termino fue-
+rit, posset equidem colligi, quoniam A terminus in
+nullo G termino est, sed quoniam universalis negativa
+convertitur, dicimus quoniam G terminus in nullo A
+termino est , ut sit sic nullum bonum malum εει, omne
+
+Π
+ξ
+
+ 
+
+5
+t
+Ξ
+>l
+i
+
+ι
+
+justum bonum εει, posset colligi nullum justum ma- , ἶ·
+
+lum εει, scd ex his per conversionem colligimus nul-
+lum malum justum εει.
+
+Septimus modus primae figurae est, qui ex universali
+affirmativa et particulari affirmativa per conversionem
+particularem colligIt affirmativam. Si enim fuerit A ter-
+minus in omni B, et B terminus de quodam Ο termino
+praedIcetur, potest A terminus de quodam G termino
+praedicari. Sed quoniam particularis affirmatio sihi ipsa
+convertitur, per conversionem fit conclusio et dicitur G
+terminus de quodam A termino praedicari, ut sit sic
+omne bonum virtus est, quiddam ,iustum bonum εει,
+posset equidem concludi, quoniam quiddam justum vir-
+tus est ,· sed quia particularis affirmatio convertitur,
+dicimus, quoniam quaedam virtus justum εει.
+
+Octavus modus primae figurae est, quoties ex univer-
+sali affirmatione et universali negatione particularis ne-
+gativa colligitur. Si enim A terminus de omni B ter-
+mino praedicatus fuerit. B vero terminus de nullo G ter-
+mino praedicetur, non posset colligi, quoniam A terminus
+dc nullo G termino praedicatur, cur autem non possit,
+in Resolutoriis dictum est. Sed quoniam universalis
+
